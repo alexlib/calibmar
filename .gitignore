@@ -9,4 +9,4 @@ build/
 # IDEs
 .vscode/
 .vs/
-
+uv.lock
